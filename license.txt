@@ -30,11 +30,9 @@
                         |_|                
 ...............................................................................
 
-Hey there, welcome to the mod creation template based on the Purple Haze theme
-from  Opera GX. This  template  includes the original keyboard sounds, browser
-sounds, and music from Opera GX, as well as light and dark wallpapers that are
-based on the original Purple Haze wallpapers but have added information at the
-bottom to set them apart. There is also an example of animated wallpaper.
+This  template  includes the original keyboard sounds, browser
+sounds, and music from Opera GX, as well as light and dark animated wallpapers that are
+from The Legend Of Zelda.
 
 We've also included a simple web  modding  CSS that changes the text color and
 background  color on web pages in the opera.com domain. This will show you how
